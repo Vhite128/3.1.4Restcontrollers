@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc2f0166-e820-4cbe-a422-de5ba319c45c" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/Exceptions/ExceptionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/Exceptions/UsernameExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/SpringBootSecurityDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/configs/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/configs/SuccessUserHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/configs/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/controllers/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/controllers/RestApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/repositories/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/securities/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/services/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/services/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kata/spring/boot_security/demo/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/createUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/deleteUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/editUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/getOperations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/kata/spring/boot_security/demo/SpringBootSecurityDemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vhite128"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vhite128/3.1.4-Rest-controllers..git",
+    "accountId": "e453ff40-f5a5-41fc-ba01-b70c6ef44d7d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xF9nrw8dmxW8dkOy4abYDFdq7q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomti\IdeaProjects\FullOpenProject\3.1.4Restcontrollers" />
+      <recent name="C:\Users\tomti\IdeaProjects\FullOpenProject\3.1.4Restcontrollers.." />
+      <recent name="C:\Users\tomti\IdeaProjects\FullOpenProject\3.1.4Restcontrollers." />
+      <recent name="C:\Users\tomti\IdeaProjects\FullOpenProject\3.1.4Restcontrollerss" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootSecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot_security-REST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.kata.spring.boot_security.demo.SpringBootSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2f0166-e820-4cbe-a422-de5ba319c45c" name="Changes" comment="" />
+      <created>1747523124208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747523124208</updated>
+      <workItem from="1747523125271" duration="327000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1747523330716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747523330716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
